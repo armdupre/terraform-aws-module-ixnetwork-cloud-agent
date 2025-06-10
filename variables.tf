@@ -1,5 +1,5 @@
 variable "AmiName" {
-	default = "Ixia_Virtual_Test_Appliance_10.40.1000.2-eaa16046-9580-4e91-8167-302d8cb0da84"
+	default = "Ixia_Cloud_Test_Appliance_11.00.4444.444-prod-nqoib5holinoe"
 	description = "AMI name used for deploying instances"
 	type = string
 }
@@ -134,7 +134,7 @@ variable "UserProjectTag" {
 }
 
 variable "Version" {
-	default = "10-40"
+	default = "11-00"
 	description = "Versioning of the application using the deployment"
 	type = string
 }
