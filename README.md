@@ -1,7 +1,7 @@
 # module-ixnetwork-cloud-agent/aws
 
 ## Description
-Terraform module for IxNetwork agent deployment on Amazon Web Services
+Terraform module for IxNetwork Cloud agent deployment on Amazon Web Services
 
 ## Deployment
 This module creates a single instance having three network interfaces.
